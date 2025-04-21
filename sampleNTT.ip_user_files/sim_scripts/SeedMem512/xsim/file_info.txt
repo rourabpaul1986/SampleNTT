@@ -1,0 +1,2 @@
+SeedMem512.v,verilog,xil_defaultlib,../../../../sampleNTT.srcs/sources_1/ip/SeedMem512/sim/SeedMem512.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
