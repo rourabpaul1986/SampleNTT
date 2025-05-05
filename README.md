@@ -3,9 +3,9 @@ This project implemennts hardware of SampleNTT used in kyber and Parse SPDM3 alg
 The directory maps are shown below
 
 |Folder name | Remarks|
------------------------
+|----------|-------------|
 |Statistical_Tests| This file comntains two files rejection_rate_analysis_mask_4095.py and statistical_analysis_mask_4095.py. Both these files are used for statistical test of our modified SampleNTT and conventional sampleNTT and SPDM3|
------------------------------------
+|-----------|------------------------|
 
 
 
