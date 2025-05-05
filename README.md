@@ -10,7 +10,7 @@ The directory maps are shown below
 
 Kyber Paremeters Taken for the sampleNTTs
 ```
-n  = 16;
+n  = 256;
 q  = 3329;
 r  = 512; --number of bytes from shake128
 
